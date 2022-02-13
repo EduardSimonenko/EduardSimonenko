@@ -20,7 +20,7 @@ I am 21 years old and I am a final year student at the Belarusian State Universi
 + **Adobe Photoshop**
 
 ***
-[<img align="left" alt="CodeWars" width-"300px" src="https://www.codewars.com/users/EduardSimonenko/badges/large" /.][codewars]
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/EduardSimonenko/badges/large"/>][codewars]
 
 ## Education:
 
