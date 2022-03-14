@@ -20,14 +20,14 @@ I am 21 years old and I am a final year student at the Belarusian State Universi
 + **Adobe Photoshop**
 
 ***
-[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/EduardSimonenko/badges/large"/>][codewars]
+[<img align="left" alt="CodeWars" width="300px" src="https://www.codewars.com/users/EduardSimonenko/badges/large"/>](codewars)
 
 ## Education:
 
 2021-2022
-: * **Website development using HTML, CSS and JavaScript**
+: **Website development using HTML, CSS and JavaScript**
 *High-Tech Park Education Center, Front-end Developer*
-: * **JavaScript/Front-end**
+: **JavaScript/Front-end**
 *The Rolling Scopes School, Front-end Developer*
 
 ## German level: B2
