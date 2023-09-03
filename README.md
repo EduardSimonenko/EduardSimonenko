@@ -1,5 +1,5 @@
 # Eduard Simonenko
-### Junior Front-End Developer
+###Front-End Developer
 ***
 ## Contacts:
 ##### +375(29)228-71-13(MTS, Viber, telegram)
